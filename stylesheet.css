@@ -1,0 +1,104 @@
+@charset "UTF-8";
+
+
+
+body {
+    background-color: #F5F5F5;
+    color:black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    width: 100%;
+    display: flex;
+    flex-flow: column;
+    min-height: 100vh;
+}
+
+header{
+    background-color: #161B22;
+    height: 70px;
+    width: 100%;
+    display: flex;
+    align-self: center;
+}
+
+p.header_logo img{
+    color: black;
+    display: flex;
+}
+
+.header-txt{
+    color: white;
+    align-items: stretch;
+    white-space: nowrap;
+    display: flex;
+    align-self: center;
+}
+
+a{
+    text-decoration: none;
+    color: #161B22;
+}
+
+.nav-ul{
+    background-color: #C0C0C0;
+    color: black;
+    font-size: 27px;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: center;
+    height: 60px;
+    margin: 0px;
+}
+
+li{
+    list-style: none;
+    display: flex;
+    flex-basis:12.2%;
+}
+
+main{
+    flex: 1;
+}
+
+h1{
+    display: flex;
+    justify-content:center;
+}
+
+h2{
+    display: flex;
+    justify-content:center;
+}
+
+h3{
+    display: flex;
+    justify-content:center;
+}
+
+.download{
+    display: flex;
+    justify-content:center;
+    color: blue;
+}
+
+.new_blog{
+    display: flex;
+    flex-flow: row wrap;
+    align-content: space-around;
+    justify-content: center;
+}
+
+
+
+p{
+    display: flex;
+    justify-content: center;
+}
+
+
+footer{
+    padding: 6px;
+    background: #161B22;
+    color: white;
+}
