@@ -54,7 +54,7 @@ a{
 li{
     list-style: none;
     display: flex;
-    flex-basis:12.2%;
+    flex-basis:14%;
 }
 
 main{
@@ -79,6 +79,7 @@ h3{
 .download{
     display: flex;
     justify-content:center;
+    text-decoration: underline;
     color: blue;
 }
 
@@ -87,6 +88,11 @@ h3{
     flex-flow: row wrap;
     align-content: space-around;
     justify-content: center;
+}
+
+.LINE{
+    display: flex;
+    justify-content:center;
 }
 
 
