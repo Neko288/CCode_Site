@@ -26,6 +26,11 @@ p.header_logo img{
     display: flex;
 }
 
+img.logo{
+    width:"24%";
+    height:"";
+}
+
 .header-txt{
     color: white;
     align-items: stretch;
