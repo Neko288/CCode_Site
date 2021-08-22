@@ -10,6 +10,7 @@ body {
     width: 100%;
     display: flex;
     flex-flow: column;
+    justify-content:center;
     min-height: 100vh;
 }
 
@@ -80,10 +81,7 @@ h3{
 }
 
 .prvideo{
-    display: flex;
-    justify-content:center;
-    width: 40%; 
-    height: 40%;
+    width: 40%;
 }
 
 .download{
