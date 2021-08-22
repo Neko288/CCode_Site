@@ -29,6 +29,8 @@ p.header_logo img{
 img.logo{
     width:"24%";
     height:"";
+    max-width:'24%';
+    min-width:'24%';
 }
 
 .header-txt{
