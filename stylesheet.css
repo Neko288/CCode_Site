@@ -80,8 +80,7 @@ h3{
 }
 
 .div.prvideo{
-    display: flex;
-    justify-content:center;
+    text-align: center;
 }
 
 .prvideo{
