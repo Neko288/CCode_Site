@@ -10,7 +10,6 @@ body {
     width: 100%;
     display: flex;
     flex-flow: column;
-    justify-content:center;
     min-height: 100vh;
 }
 
@@ -76,6 +75,11 @@ h2{
 }
 
 h3{
+    display: flex;
+    justify-content:center;
+}
+
+.div_prvideo{
     display: flex;
     justify-content:center;
 }
