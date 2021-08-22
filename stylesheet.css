@@ -79,6 +79,11 @@ h3{
     justify-content:center;
 }
 
+.prvideo{
+    width: 560; 
+    height: 315;
+}
+
 .download{
     display: flex;
     justify-content:center;
