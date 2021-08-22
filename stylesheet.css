@@ -80,8 +80,10 @@ h3{
 }
 
 .prvideo{
-    width: 560; 
-    height: 315;
+    display: flex;
+    justify-content:center;
+    width: 40%; 
+    height: 40%;
 }
 
 .download{
