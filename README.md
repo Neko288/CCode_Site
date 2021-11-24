@@ -1,7 +1,7 @@
 # CCode_Site
 CCode のダウンロードなど
 
-# <I am using deepl translation to write English.>
+# I am using deepl translation to write English.
 
 ## What is this site?
 This is the my code introduction page.
